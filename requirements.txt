@@ -5,3 +5,10 @@ geopandas
 beautifulsoup4
 basemap
 wget
+seaborn
+landlab
+xarray
+matplotlib
+# conda only requirements:
+# python-wget
+# basemap-data-hires
