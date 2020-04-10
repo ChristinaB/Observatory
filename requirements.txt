@@ -13,6 +13,6 @@ beautifulsoup4==4.6.0
 basemap==1.2.0
 wget==3.2
 seaborn==0.8.1
-landlab=1.8.0
+landlab==1.8.0
 xarray==0.10.9
 
